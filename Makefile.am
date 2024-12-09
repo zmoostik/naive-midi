@@ -1,0 +1,6 @@
+SUBDIRS = src
+
+EXTRA_DIST = \
+	LICENSE \
+	NEWS.md \
+	README.md
